@@ -1,0 +1,50 @@
+body{
+  font-family: 'Inconsolata', monospace;
+  background-color: #f5df4d;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+    width: 100%;
+    float: right;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.col {
+  padding: 2% 7%;
+}
+
+.fas_icon {
+  font-size: 50px;
+  color: black;
+  margin-left: 120px;
+}
+
+h2{
+  text-align: center;
+}
+
+.abouts{
+  width: 250px;
+}
+
+h1{
+  text-align: center;
+}
+
+hr{
+  border-style: dotted;
+  border-color: #939597;
+  width: 30%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
